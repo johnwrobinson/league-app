@@ -1,0 +1,6 @@
+# Application files
+league-app
+test.db
+
+# go files
+go.sum
